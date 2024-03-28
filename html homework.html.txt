@@ -1,0 +1,16 @@
+<html>
+     <head>
+	       <title> Home </title>
+	</head>
+	<body>
+	<p allgn=center"> HTML HOMEWORK </p>
+	<hr width=50%
+	<p allgn="left" content<p/>
+	<ol>
+	    <li>what is internet</li>
+		<li> what is website , webpage ,webserver</li>\
+	</ol>
+
+	</body>
+</html>
+	
